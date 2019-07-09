@@ -1,0 +1,7 @@
+C:\projekty\zgadywanka-lab6n-master\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe.config
+C:\projekty\zgadywanka-lab6n-master\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.exe
+C:\projekty\zgadywanka-lab6n-master\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\bin\Debug\GraMonolitycznie.pdb
+C:\projekty\zgadywanka-lab6n-master\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.csprojAssemblyReference.cache
+C:\projekty\zgadywanka-lab6n-master\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.csproj.CoreCompileInputs.cache
+C:\projekty\zgadywanka-lab6n-master\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.exe
+C:\projekty\zgadywanka-lab6n-master\zgadywanka-lab6n-master\GraZaDuzoZaMalo\GraMonolitycznie\obj\Debug\GraMonolitycznie.pdb
